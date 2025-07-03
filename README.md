@@ -4,7 +4,7 @@ This repository contains a beginner-friendly walkthrough of a machine learning p
 
 ---
 
-## Demo: Decision Tree Visualization
+## Decision Tree Visualization
 
 ![Decision Tree Example](images/ML_workflow.png)
 
