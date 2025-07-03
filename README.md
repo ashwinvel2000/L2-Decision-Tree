@@ -1,6 +1,6 @@
 #  ML Fundamentals: Decision Tree Classifier Walkthrough
 
-This repository contains a beginner-friendly walkthrough of a machine learning pipeline using a **Decision Tree Classifier**. The notebook is designed to help you build, understand, and visualize a simple ML model — great for refreshing your fundamentals or onboarding new learners.
+This repository contains a beginner-friendly walkthrough of a machine learning pipeline using a **Decision Tree Classifier**. The notebook is designed to help you build, understand, and visualize a simple ML model which is great for refreshing your fundamentals or onboarding new learners.
 
 ---
 
